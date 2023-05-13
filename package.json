@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/cynthiamory/SVG-Me-Please/issues"
   },
-  "homepage": "https://github.com/cynthiamory/SVG-Me-Please#readme"
+  "homepage": "https://github.com/cynthiamory/SVG-Me-Please#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
