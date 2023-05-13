@@ -1,0 +1,29 @@
+{
+  "name": "svg-me-please",
+  "version": "1.0.0",
+  "description": "A Node.js command-line app that takes in user input to generate a logo and save it as an SVG file.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiamory/SVG-Me-Please.git"
+  },
+  "keywords": [
+    "logo",
+    "SVG",
+    "jest",
+    "node.js"
+  ],
+  "author": "Cynthia Mory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cynthiamory/SVG-Me-Please/issues"
+  },
+  "homepage": "https://github.com/cynthiamory/SVG-Me-Please#readme"
+}
