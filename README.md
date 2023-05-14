@@ -59,7 +59,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ![Website Preview Image](./examples/logo-example-1.png)
 
 ## Link To Video Walkthrough
-**Walkthrough:** [Link to the walkthrough video!](need to enter link here still) 
+**Walkthrough:** [Link to the walkthrough video!](https://youtu.be/pqtb8e6f9j8) 
 
 
 ## Installation
