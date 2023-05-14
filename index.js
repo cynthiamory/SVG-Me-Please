@@ -40,7 +40,7 @@ inquirer
         type: "list",
         name: "shape",
         message: "What shape would you like to use for your logo?:",
-        choices: ["Square", "Circle", "Triangle"],        
+        choices: ["square", "circle", "triangle"],        
         },
 //SELECTING THE CCOLOUR OF THE SHAPE QUESTION
        {
